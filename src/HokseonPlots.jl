@@ -65,7 +65,7 @@ function get_theme(;scale, ncolors, markersize, fontsize)
     color = choose_color(ncolors)
 
     Theme(
-        resolution=RESOLUTION .* scale,
+        size=RESOLUTION .* scale,
         figure_padding=1,
         rowgap=0,
         colgap=0,

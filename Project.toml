@@ -1,7 +1,7 @@
 name = "HokseonPlots"
 uuid = "dbc986b1-56c8-4426-90b1-59dbc674cedc"
 authors = ["Hokseon Lou"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [deps]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
